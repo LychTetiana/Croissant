@@ -2,8 +2,19 @@ body{
     background-color: rgb(255, 210, 126);
 }
 
-h1, p {
+h1, p{
     text-align: center;
+}
+
+h2{
+    margin-top: 250%;
+    text-align: center;
+}
+
+.email-link  {
+    display: flex;
+    
+    justify-content: center;
 }
 
 .description {
@@ -24,11 +35,7 @@ h1, p {
     max-width: 50%;
   }
 
- .contact {
-    
-    margin: auto;
-    
-  }
+
   .homepage{
     text-align: center;
   }
