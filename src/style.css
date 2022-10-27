@@ -1,0 +1,42 @@
+h1, p {
+    text-align: center;
+}
+.description {
+  margin: auto;
+  border: 1px solid rgb(187, 101, 61);
+  padding: 50px;
+  width: 450px;
+  height: 250px;
+  text-align: justify;
+}
+
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+ .contact {
+    
+    margin: auto;
+    
+  }
+  .homepage{
+    text-align: center;
+  }
+  .nav {
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+  }
+  
+  .nav li {
+    margin: 20px;
+    border-radius: 4px;
+    padding: 5px 15px;
+    text-decoration: none;
+    text-transform: capitalize;
+  }
+  
